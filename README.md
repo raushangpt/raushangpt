@@ -22,8 +22,8 @@
 </h2>
 
 <p align="left">
-  <img src="./git.svg" alt="git" width="40" height="40"/>
+  <img src="./tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="./svelte.svg" alt="svelte" width="40" height="40"/>
   <img src="./react.svg" alt="react" width="40" height="40"/>
-  <img src="./tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="./git.svg" alt="git" width="40" height="40"/>
 </p>
